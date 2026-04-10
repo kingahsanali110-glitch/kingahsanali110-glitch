@@ -1,4 +1,4 @@
-# 📊 Data Science Engineer – Beginner Guide
+# 📊 Data Science Engineer
 
 Welcome! This README is a **complete beginner-friendly roadmap** to becoming a Data Science Engineer. You can copy, paste, and use it for your GitHub profile or learning repository.
 
